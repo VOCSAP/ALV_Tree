@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(echo === $dir ===:*)",
+      "Bash(powershell:*)",
+      "Bash(cd:*)",
+      "Bash(head:*)",
+      "Bash(cygpath:*)",
+      "Bash(unzip:*)",
+      "Bash(python3:*)"
+    ]
+  }
+}

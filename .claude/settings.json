@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(unzip*)",
+      "Bash(mkdir*)",
+      "Bash(rm -rf /tmp/*)"
+    ]
+  }
+}
